@@ -2,7 +2,7 @@
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
-# 💻 Data Structures & Algorithms (Java)
+# Data Structures & Algorithms (Java)
 
 Welcome to my central laboratory for algorithmic problem-solving. This repository serves as a showcase of my technical proficiency, analytical thinking, and commitment to writing clean, optimized, and readable **Java** solutions for complex computing problems.
 
@@ -10,7 +10,7 @@ I utilize the **[NeetCode.io](https://neetcode.io)** curriculum to systematicall
 
 ---
 
-## 🚀 Key Highlights & Competencies
+## Key Highlights & Competencies
 
 *   **100% Java Implementation:** Built entirely with Java, leveraging strong object-oriented principles, optimal collections framework usage, and explicit type safety.
 *   **Time & Space Complexity Mindset:** Every solution is written with performance in mind—aiming for optimal Big-O asymptotic limits.
@@ -18,7 +18,7 @@ I utilize the **[NeetCode.io](https://neetcode.io)** curriculum to systematicall
 
 ---
 
-## 📂 Repository Structure & Curriculum
+## Repository Structure & Curriculum
 
 Problems are dynamically categorized by foundational computer science topics. Within each directory, solutions are isolated by problem domains:
 
